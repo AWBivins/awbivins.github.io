@@ -13,7 +13,7 @@ name                     : &name "Aaron Bivins, PhD, PE"
 description              : &description "public health engineer<br/>environmental engineer<br/>environmental microbiologist"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "awbivins.github.io"
+repository               : "AWBivins/awbivins.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 seo_description          : "Site for Aaron William Bivins, Assistant Professor of Civil and Environmental Engineering at Louisiana State University"
