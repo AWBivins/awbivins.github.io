@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aaron Bivins, PhD, PE / Bivins Lab at LSU"
+title                    : "Bivins Lab at LSU"
 title_separator          : "-"
 name                     : &name "Aaron Bivins, PhD, PE"
 description              : &description "public health engineer<br/>environmental engineer<br/>environmental microbiologist"
